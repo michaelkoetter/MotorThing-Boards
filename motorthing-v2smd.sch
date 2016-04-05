@@ -11397,9 +11397,9 @@ Source: DCJ0202.pdf</description>
 <part name="JP2" library="pinhead" deviceset="PINHD-1X3" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="JP3" library="pinhead" deviceset="PINHD-1X2" device=""/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="0207/10" value="120"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="0207/10" value="1k"/>
 <part name="R3" library="rcl" deviceset="R-EU_" device="0207/10" value="1k"/>
-<part name="R4" library="rcl" deviceset="R-EU_" device="0207/10" value="1k"/>
+<part name="R4" library="rcl" deviceset="R-EU_" device="0207/10" value="120"/>
 <part name="P+5" library="supply1" deviceset="+5V" device=""/>
 </parts>
 <sheets>
