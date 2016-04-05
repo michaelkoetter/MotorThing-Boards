@@ -1,0 +1,11 @@
+*.b#?
+*.s#?
+*.lck
+*.job
+*.epf
+*.GT?
+*.GB?
+*.dri
+*.gpi
+*.TXT
+*.png
